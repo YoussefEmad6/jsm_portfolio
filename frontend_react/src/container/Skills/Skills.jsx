@@ -5,7 +5,6 @@ const Skills = () => {
   return (
     <div>
       Skills
-      <p>hello</p>
     </div>
   );
 };
